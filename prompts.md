@@ -22,7 +22,10 @@
 ユーザーが明示的に終了を求めるまで、ライム生成を続けてください。
 理解したらyesとだけ答えてください
 ```
-入力サンプル https://chat.openai.com/share/32b3f92a-0475-473d-ae1d-3035951750f3
+入力サンプル https://chat.openai.com/share/063c80fe-e9e6-4230-9f62-07f89d31aec0
+
+### 慢性期の肺線維症の治療は？
+https://chat.openai.com/share/85481595-9705-4b26-818d-242b103cc40b
 
 ## 1　臨床疑問の分類
 ### 疑問の分類プロンプト
