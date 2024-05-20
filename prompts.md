@@ -45,6 +45,8 @@ https://chat.openai.com/share/85481595-9705-4b26-818d-242b103cc40b
 ## 2　EBMの5つのステップ
 
 ## 3　Background questionの扱い方
+[医学英語でPubMed検索GPTs](https://chatgpt.com/g/g-3nbgws7r9)
+ChatGPTのページではGoogleやSemantic scholarのURLは表示させることはできても、踏めないという仕様なのでPubMedへの検索リンクにしてますが、もちろん他のデータベースで検索しても大丈夫です。
 
 ## 4　二次文献を読もう
 
