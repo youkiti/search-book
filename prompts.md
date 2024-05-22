@@ -56,9 +56,11 @@ ChatGPTのページではGoogleやSemantic scholarのURLは表示させること
 [Medscape Reference](https://reference.medscape.com/)
 
 ## 5　ガイドラインとは？ 
-
+[ARDS診療ガイドライン2016](https://www.jrs.or.jp/publication/jrs_guidelines/20161004153330.html)
+[ARDS診療ガイドライン2021](https://www.jsicm.org/publication/pdf/220728JSICM_ihardsg.pdf)
 
 ## 6　Background questionの検索具体例
+[perplexityの検索例](https://www.perplexity.ai/search/Gi6KTLoXSFe4xKOS.zlB8g)
 
 ## 7　Foreground questionの分類と構造化
 
