@@ -1,5 +1,5 @@
 # search-book
-検索本（仮）のメタプロンプト、URLを集めたレポジトリです。
+検索本（仮）のメタプロンプト、参考URLを集めたレポジトリです。
 プロンプトについては、https://chatgpt.com/ にアクセスして、入力して使ってみてください。
 # まえがき
 
@@ -22,10 +22,12 @@
 ユーザーが明示的に終了を求めるまで、ライム生成を続けてください。
 理解したらyesとだけ答えてください
 ```
-入力サンプル https://chat.openai.com/share/063c80fe-e9e6-4230-9f62-07f89d31aec0
+[入力サンプル](https://chat.openai.com/share/063c80fe-e9e6-4230-9f62-07f89d31aec0)
+
+[ライムGPT](https://chatgpt.com/g/g-FVlmC0nxJ-raimugpts)
 
 ### 慢性期の肺線維症の治療は？
-https://chat.openai.com/share/85481595-9705-4b26-818d-242b103cc40b
+[履歴](https://chat.openai.com/share/85481595-9705-4b26-818d-242b103cc40b)
 
 ## 1　臨床疑問の分類
 ### 疑問の分類プロンプト
@@ -49,8 +51,12 @@ https://chat.openai.com/share/85481595-9705-4b26-818d-242b103cc40b
 ChatGPTのページではGoogleやSemantic scholarのURLは表示させることはできても、踏めないという仕様なのでPubMedへの検索リンクにしてますが、もちろん他のデータベースで検索しても大丈夫です。
 
 ## 4　二次文献を読もう
+[UpToDate](https://www.uptodate.com/login)
+[DynaMed Plus](https://www.dynamed.com/)
+[Medscape Reference](https://reference.medscape.com/)
 
 ## 5　ガイドラインとは？ 
+
 
 ## 6　Background questionの検索具体例
 
