@@ -51,9 +51,9 @@
 ChatGPTのページではGoogleやSemantic scholarのURLは表示させることはできても、踏めないという仕様なのでPubMedへの検索リンクにしてますが、もちろん他のデータベースで検索しても大丈夫です。
 
 ## 4　二次文献を読もう
-[UpToDate](https://www.uptodate.com/login)
-[DynaMed Plus](https://www.dynamed.com/)
-[Medscape Reference](https://reference.medscape.com/)
+- [UpToDate](https://www.uptodate.com/login)
+- [DynaMed Plus](https://www.dynamed.com/)
+- [Medscape Reference](https://reference.medscape.com/)
 
 ## 5　ガイドラインとは？ 
 [ARDS診療ガイドライン2016](https://www.jrs.or.jp/publication/jrs_guidelines/20161004153330.html)
@@ -63,6 +63,8 @@ ChatGPTのページではGoogleやSemantic scholarのURLは表示させること
 [perplexityの検索例](https://www.perplexity.ai/search/Gi6KTLoXSFe4xKOS.zlB8g)
 
 ## 7　Foreground questionの分類と構造化
+[臨床疑問の構造化GPTs](https://chatgpt.com/g/g-6ZRDanfBU-lin-chuang-yi-wen-nogou-zao-hua-gpts)
+
 
 ## 8　エビデンスのピラミッドから系統的レビューへ
 
