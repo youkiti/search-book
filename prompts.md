@@ -73,8 +73,9 @@ ChatGPTのページではGoogleやSemantic scholarのURLは表示させること
 - [Trip:各国のガイドライン](https://www.tripdatabase.com/)
   
 ## 9　治療の疑問に関する系統的レビューの読み方
-
-『医学論文の読み方 2.0: 論文を批判的に吟味し臨床適用するための Letter の書き方』[中外医学社](https://www.chugaiigaku.jp/item/detail.php?id=3757)[Amazon](https://www.amazon.co.jp/dp/4498148142)
+- [Angiotensin converting enzyme (ACE) inhibitors versus angiotensin receptor blockers for primary hypertension](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009096.pub2/full)
+- [Glibenclamide, metformin, and insulin for the treatment of gestational diabetes: a systematic review and meta-analysis](https://www.bmj.com/content/350/bmj.h102.long)
+- 『医学論文の読み方 2.0: 論文を批判的に吟味し臨床適用するための Letter の書き方』[中外医学社](https://www.chugaiigaku.jp/item/detail.php?id=3757)[Amazon](https://www.amazon.co.jp/dp/4498148142)
 
 ## コラム：AIを使った検索結果の読み方
 
