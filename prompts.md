@@ -56,18 +56,22 @@ ChatGPTのページではGoogleやSemantic scholarのURLは表示させること
 - [Medscape Reference](https://reference.medscape.com/)
 
 ## 5　ガイドラインとは？ 
-[ARDS診療ガイドライン2016](https://www.jrs.or.jp/publication/jrs_guidelines/20161004153330.html)
-[ARDS診療ガイドライン2021](https://www.jsicm.org/publication/pdf/220728JSICM_ihardsg.pdf)
+- [ARDS診療ガイドライン2016](https://www.jrs.or.jp/publication/jrs_guidelines/20161004153330.html)
+- [ARDS診療ガイドライン2021](https://www.jsicm.org/publication/pdf/220728JSICM_ihardsg.pdf)
 
 ## 6　Background questionの検索具体例
-[perplexityの検索例](https://www.perplexity.ai/search/Gi6KTLoXSFe4xKOS.zlB8g)
+- [perplexityの検索例](https://www.perplexity.ai/search/Gi6KTLoXSFe4xKOS.zlB8g)
 
 ## 7　Foreground questionの分類と構造化
-[臨床疑問の構造化GPTs](https://chatgpt.com/g/g-6ZRDanfBU-lin-chuang-yi-wen-nogou-zao-hua-gpts)
+- [臨床疑問の構造化GPTs](https://chatgpt.com/g/g-6ZRDanfBU-lin-chuang-yi-wen-nogou-zao-hua-gpts)
 
 
 ## 8　エビデンスのピラミッドから系統的レビューへ
-
+- [Cochrane Library:質の高いシステマティックレビュー](https://www.cochranelibrary.com/)
+- [Epidtemonikos:システマティックレビュー](https://www.epistemonikos.org/)
+- [PubMed Clinical Queries:雑多](https://pubmed.ncbi.nlm.nih.gov/clinical/)
+- [Trip:各国のガイドライン](https://www.tripdatabase.com/)
+  
 ## 9　治療の疑問に関する系統的レビューの読み方
 
 ## AIを使った検索結果の読み方
