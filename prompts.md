@@ -74,7 +74,9 @@ ChatGPTのページではGoogleやSemantic scholarのURLは表示させること
   
 ## 9　治療の疑問に関する系統的レビューの読み方
 
-## AIを使った検索結果の読み方
+『医学論文の読み方 2.0: 論文を批判的に吟味し臨床適用するための Letter の書き方』[中外医学社](https://www.chugaiigaku.jp/item/detail.php?id=3757)[Amazon](https://www.amazon.co.jp/dp/4498148142)
+
+## コラム：AIを使った検索結果の読み方
 
 ## 10　検査の有効性に関する疑問
 
