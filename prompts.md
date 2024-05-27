@@ -78,6 +78,12 @@
 - 『医学論文の読み方 2.0: 論文を批判的に吟味し臨床適用するための Letter の書き方』[中外医学社](https://www.chugaiigaku.jp/item/detail.php?id=3757)[Amazon](https://www.amazon.co.jp/dp/4498148142)
 
 ## コラム：AIを使った検索結果の読み方
+### 生成AIを使った検索ツールリスト
+- [Elicit](https://elicit.com/)
+- [consensus](https://consensus.app/)
+- [ScholarAI](https://scholarai.io/)
+- [txyz](https://www.txyz.ai/)
+### どれが特別優秀ということはないです。毎月のようにシステム面での改善が行われているので、自分が好きなインターフェースのものを使ったらいいのではないでしょうか。
 
 ## 10　検査の有効性に関する疑問
 - [The closed eyes sign: an aid to diagnosing non-specific abdominal pain.](https://www.bmj.com/content/297/6652/837)
