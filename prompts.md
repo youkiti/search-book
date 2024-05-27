@@ -48,7 +48,7 @@
 
 ## 3　Background questionの扱い方
 [医学英語でPubMed検索GPTs](https://chatgpt.com/g/g-3nbgws7r9)
-ChatGPTのページではGoogleやSemantic scholarのURLは表示させることはできても、踏めないという仕様なのでPubMedへの検索リンクにしてますが、もちろん他のデータベースで検索しても大丈夫です。
+- ChatGPTのページではGoogleやSemantic scholarのURLは表示させることはできても、踏めないという仕様なのでPubMedへの検索リンクにしてますが、もちろん表示されたキーワードで他のデータベースで検索しても大丈夫です。
 
 ## 4　二次文献を読もう
 - [UpToDate](https://www.uptodate.com/login)
