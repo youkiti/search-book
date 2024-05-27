@@ -80,6 +80,8 @@
 ## コラム：AIを使った検索結果の読み方
 
 ## 10　検査の有効性に関する疑問
+- [The closed eyes sign: an aid to diagnosing non-specific abdominal pain.](https://www.bmj.com/content/297/6652/837)
+- [論文を読んで感度、特異度の計算](https://chatgpt.com/share/08844cf9-2af4-40f8-a94f-0817ca090b5e)
 
 ## 11　検査の有効性に関する疑問の調べ方
 
