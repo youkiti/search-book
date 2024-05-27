@@ -26,8 +26,8 @@
 
 [ライムGPT](https://chatgpt.com/g/g-FVlmC0nxJ-raimugpts)
 
-### 慢性期の肺線維症の治療は？
-[履歴](https://chat.openai.com/share/85481595-9705-4b26-818d-242b103cc40b)
+###
+[慢性期の肺線維症の治療は？:ChatGPTの履歴](https://chat.openai.com/share/85481595-9705-4b26-818d-242b103cc40b)
 
 ## 1　臨床疑問の分類
 ### 疑問の分類プロンプト
@@ -87,7 +87,7 @@
 
 ## 10　検査の有効性に関する疑問
 - [The closed eyes sign: an aid to diagnosing non-specific abdominal pain.](https://www.bmj.com/content/297/6652/837)
-- [論文を読んで感度、特異度の計算](https://chatgpt.com/share/08844cf9-2af4-40f8-a94f-0817ca090b5e)
+- [論文を読んで感度、特異度の計算:ChatGPTの履歴](https://chatgpt.com/share/08844cf9-2af4-40f8-a94f-0817ca090b5e)
 
 ## 11　検査の有効性に関する疑問の調べ方
 
