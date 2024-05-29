@@ -1,0 +1,32 @@
+予測モデルワークシート
+
+Type of study
+- 組み入れの入り口は1つ？2つ？
+
+- どんなデータソース？
+
+Research objectives: development or validation? diagnostic or prognostic?
+-何が新しい?
+
+-診断?予後?
+
+-開発?検証?
+
+Index rule
+-何を予測するどんな指標?
+
+Participants
+-誰がどうやって組み入れ？
+
+-誰がどうやって除外?
+
+Outcome (Target condition)
+-指標でどんなアウトカムが予測される?
+
+-実際のアウトカムはどう測定された?
+
+Diagnostic/prognostic performance measures
+-どの性能指標? 
+
+
+-どれくらいの性能?
