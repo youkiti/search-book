@@ -82,7 +82,7 @@
 - [Elicit](https://elicit.com/)
 - [consensus](https://consensus.app/)
 - [ScholarAI](https://scholarai.io/)
-- [txyz](https://www.txyz.ai/)
+- [txyz](https://www.txyz.ai/)  
 どれが特別優秀ということはないです。毎月のようにシステム面での改善が行われているので、自分が好きなインターフェースのものを使ったらいいのではないでしょうか。
 
 ## 10　検査の有効性に関する疑問
