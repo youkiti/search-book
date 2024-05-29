@@ -83,7 +83,7 @@
 - [consensus](https://consensus.app/)
 - [ScholarAI](https://scholarai.io/)
 - [txyz](https://www.txyz.ai/)
-### どれが特別優秀ということはないです。毎月のようにシステム面での改善が行われているので、自分が好きなインターフェースのものを使ったらいいのではないでしょうか。
+どれが特別優秀ということはないです。毎月のようにシステム面での改善が行われているので、自分が好きなインターフェースのものを使ったらいいのではないでしょうか。
 
 ## 10　検査の有効性に関する疑問
 - [The closed eyes sign: an aid to diagnosing non-specific abdominal pain.](https://www.bmj.com/content/297/6652/837)
