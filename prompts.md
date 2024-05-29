@@ -94,6 +94,10 @@
 ## 12　割合，曝露に関する疑問と一次研究論文
 
 ## 13　予測指標の探し方と使い方
+- 『診断研究の方法論 ー診断学のエビデンスの読み方・作り方ー』 [日本医事新報社](https://www.jmedj.co.jp/book/search/detail.php?id=2197) [Amazon](https://www.amazon.co.jp/dp/4784959580)　
+- [TRIPOD+AI statement](https://www.bmj.com/content/385/bmj-2023-078378)
+- [予測モデルワークシート](https://github.com/youkiti/search-book/blob/main/prediction-model-worksheet.txt)
+
 
 ### コラム1●予測指標の未来とAI
 
