@@ -107,7 +107,8 @@
 - [Step 4 GPTs](https://chatgpt.com/g/g-QHd1qNInh-step-4-gpts)
   
 ## 15　振り返る
-
+- [振り返りGPTs](https://chatgpt.com/g/g-eog0VWP6A-zhen-rifan-rigpts)
+  
 ### コラム3●Google—based medicineの可能性
 
 # 第2部　症例報告のための調べ方
