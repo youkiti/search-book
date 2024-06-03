@@ -104,7 +104,8 @@
 ### コラム2●未来の系統的レビュー
 
 ## 14　適用する
-
+- [Step 4 GPTs](https://chatgpt.com/g/g-QHd1qNInh-step-4-gpts)
+  
 ## 15　振り返る
 
 ### コラム3●Google—based medicineの可能性
