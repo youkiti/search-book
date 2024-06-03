@@ -116,6 +116,18 @@
 ## 1　症例報告をするために　「一つ新しい」ロジックを作る
 
 ## 2　「一つ新しい」を証明するための検索方法＝系統的検索
+- [ライフサイエンス辞書](https://lsd-project.jp/cgi-bin/lsdproj/draw_tree.pl?opt=c)
+- [新しいPubMedの検索方法](https://www.youtube.com/watch?v=NdgVmYoxcJg)
+- [Rayyan](https://www.rayyan.ai/)
+  無料でもある程度のことはできる
+- [EPPI reviewer](https://eppi.ioe.ac.uk/cms/Default.aspx?tabid=2914)  
+  有料、1ヶ月のトライアルあり
+- [ASReview](https://asreview.nl/)
+  無料だが環境設定にハードルあり
+- [citationchaser](https://estech.shinyapps.io/citationchaser/)
+  pmidやdoiから引用検索が可能
+- [Connected papers](https://www.connectedpapers.com/)
+- [Research rabbit](https://www.researchrabbit.ai/)
 
 ## 3　症例報告のための検索　実践編
 
