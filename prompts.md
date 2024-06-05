@@ -130,6 +130,7 @@
 - [Research rabbit](https://www.researchrabbit.ai/)
 
 ## 3　症例報告のための検索　実践編
+- [consensusを使った検索履歴](https://chatgpt.com/share/16a71f77-bb7f-4bea-835e-05ec2b14237d)
 
 # おわりに
 
