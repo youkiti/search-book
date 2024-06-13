@@ -206,6 +206,10 @@ Outcome: 28日死亡率
 ### コラム2●未来の系統的レビュー
 
 ## 14　適用する
+トロッコ問題への答え  
+- [Gemini](https://g.co/gemini/share/acdde7c425b3)
+- [ChatGPT](https://chatgpt.com/share/541c9773-19f1-476e-84d0-4617de57d3cc)
+
 ```
 ネタバレしないようにプロンプトはここには書きません。
 ご興味の方は個別に筆者までご連絡ください。 youkiti(あっと)gmail.com
