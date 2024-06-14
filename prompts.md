@@ -79,7 +79,7 @@ https://pubmed.ncbi.nlm.nih.gov/?term=[検索英単語]
 - [ARDS診療ガイドライン2021](https://www.jsicm.org/publication/pdf/220728JSICM_ihardsg.pdf)
 
 ## 6　Background questionの検索具体例
-- [perplexityの検索例](https://www.perplexity.ai/search/Gi6KTLoXSFe4xKOS.zlB8g)
+- [perplexityの検索例(ハルシネーションの実例)](https://www.perplexity.ai/search/Gi6KTLoXSFe4xKOS.zlB8g)
 
 ## 7　Foreground questionの分類と構造化
 ```
