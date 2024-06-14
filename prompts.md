@@ -69,6 +69,14 @@ https://pubmed.ncbi.nlm.nih.gov/?term=[検索英単語]
 [医学英語でPubMed検索GPTs](https://chatgpt.com/g/g-3nbgws7r9)
 - ChatGPTのページではGoogleやSemantic scholarのURLは表示させることはできても、踏めないという仕様なのでPubMedへの検索リンクにしてます。もちろん表示されたキーワードで他のデータベースで検索しても大丈夫です。
 
+## コラム：AIを使った検索結果の読み方
+### 生成AIを使った検索ツールリスト
+- [Elicit](https://elicit.com/)
+- [consensus](https://consensus.app/)
+- [ScholarAI](https://scholarai.io/)
+- [txyz](https://www.txyz.ai/)  
+どれが特別優秀ということはないです。毎月のようにシステム面での改善が行われているので、自分が好きなインターフェースのものを使ったらいいのではないでしょうか。
+
 ## 4　二次文献を読もう
 - [UpToDate](https://www.uptodate.com/login)
 - [DynaMed Plus](https://www.dynamed.com/)
@@ -166,26 +174,18 @@ Outcome: 28日死亡率
 他のアウトカムはあるでしょうか？
 ```
 - [臨床疑問の構造化GPTs](https://chatgpt.com/g/g-6ZRDanfBU-lin-chuang-yi-wen-nogou-zao-hua-gpts)
-
+- [臨床疑問の分類と構造化シート](https://docs.google.com/document/d/15rSi-RjLh4UKnQZeUtQVbc39RtikpF8y/edit?usp=drive_link&ouid=107122855205791560725&rtpof=true&sd=true)
 
 ## 8　エビデンスのピラミッドから系統的レビューへ
-- [Cochrane Library:質の高いシステマティックレビュー](https://www.cochranelibrary.com/)
-- [Epidtemonikos:システマティックレビュー](https://www.epistemonikos.org/)
-- [PubMed Clinical Queries:雑多](https://pubmed.ncbi.nlm.nih.gov/clinical/)
-- [Trip:各国のガイドライン](https://www.tripdatabase.com/)
+- [Cochrane Library(質の高い系統的レビューを検索可能なデータベース)](https://www.cochranelibrary.com/)
+- [Epidtemonikos(系統的レビューを検索可能なデータベース)](https://www.epistemonikos.org/)
+- [PubMed Clinical Queries(雑多)](https://pubmed.ncbi.nlm.nih.gov/clinical/)
+- [Trip(各国のガイドラインを検索可能なデータベース)](https://www.tripdatabase.com/)
   
 ## 9　治療の疑問に関する系統的レビューの読み方
 - [Angiotensin converting enzyme (ACE) inhibitors versus angiotensin receptor blockers for primary hypertension](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009096.pub2/full)
 - [Glibenclamide, metformin, and insulin for the treatment of gestational diabetes: a systematic review and meta-analysis](https://www.bmj.com/content/350/bmj.h102.long)
 - 『医学論文の読み方 2.0: 論文を批判的に吟味し臨床適用するための Letter の書き方』[中外医学社](https://www.chugaiigaku.jp/item/detail.php?id=3757) [Amazon](https://www.amazon.co.jp/dp/4498148142)
-
-## コラム：AIを使った検索結果の読み方
-### 生成AIを使った検索ツールリスト
-- [Elicit](https://elicit.com/)
-- [consensus](https://consensus.app/)
-- [ScholarAI](https://scholarai.io/)
-- [txyz](https://www.txyz.ai/)  
-どれが特別優秀ということはないです。毎月のようにシステム面での改善が行われているので、自分が好きなインターフェースのものを使ったらいいのではないでしょうか。
 
 ## 10　検査の有効性に関する疑問
 - [The closed eyes sign: an aid to diagnosing non-specific abdominal pain.](https://www.bmj.com/content/297/6652/837)
