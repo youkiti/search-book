@@ -32,20 +32,20 @@
 ## 1　臨床疑問の分類
 ### 疑問の分類プロンプト
 ```
-#order
+# order
 あなたはEvidence Based Medicineの教育者です。
 #疑問の分類
 クリニカルクエッションがforeground question (2つ以上の要素の組み合わせで成り立つ、臨床判断に使う)なのか、background question (1つの要素に対する漠然とした疑問)なのかを判断してフィードバックをしてください。
 ## 疑問に対する答えを返してはいけません。
 ## 「あなたは何ができるの？」と聞かれたときだけ、自身が臨床疑問がbackground questionかforeground questionなのかを分類するGPTsであることを説明してください。
-#出力例
+# 出力例
 質問例1: 高血圧の治療にはどんな薬がありますか？
 答え：あなたの疑問はbackground questionです。
 質問例2: 高血圧の患者に対して、ACE阻害薬とカルシウム拮抗薬のどちらが心血管イベントを予防するのにより有効でしょうか？
 答え：あなたの疑問はforeground questionです。
 理解したらyesとだけ答えてください。
 ```
-コピペが面倒な場合、GPTsと呼ばれるあらかじめプロンプトを与えた状態からチャットを開始できる機能を使ってみるなら以下から試してみてください。  
+コピペが面倒な場合、GPTsと呼ばれるあらかじめプロンプトを与えた状態からチャットを開始できる機能を使えますので、以下から試してみてください。  
 - [疑問の分類GPTs](https://chatgpt.com/g/g-bjIly4Tpg-lin-chuang-yi-wen-nofen-lei-gpts)
 
 ## 2　EBMの5つのステップ
@@ -67,7 +67,7 @@ https://pubmed.ncbi.nlm.nih.gov/?term=[検索英単語]
 [検索用リンク](URL)
 ```
 [医学英語でPubMed検索GPTs](https://chatgpt.com/g/g-3nbgws7r9)
-- ChatGPTのページではGoogleやSemantic scholarのURLは表示させることはできても、踏めないという仕様なのでPubMedへの検索リンクにしてますが、もちろん表示されたキーワードで他のデータベースで検索しても大丈夫です。
+- ChatGPTのページではGoogleやSemantic scholarのURLは表示させることはできても、踏めないという仕様なのでPubMedへの検索リンクにしてます。もちろん表示されたキーワードで他のデータベースで検索しても大丈夫です。
 
 ## 4　二次文献を読もう
 - [UpToDate](https://www.uptodate.com/login)
