@@ -246,6 +246,7 @@ XXの状況においては、OOする/しない
 # 第2部　症例報告のための調べ方
 
 ## 1　症例報告をするために　「一つ新しい」ロジックを作る
+- [症例報告のためのロジックを相談できるGPTs](https://chatgpt.com/g/g-67565e109e6881919613e1a62e6a6075-zheng-li-bao-gao-xiang-tan-gpts)
 
 ## 2　「一つ新しい」を証明するための検索方法＝系統的検索
 - [ライフサイエンス辞書](https://lsd-project.jp/cgi-bin/lsdproj/draw_tree.pl?opt=c)
